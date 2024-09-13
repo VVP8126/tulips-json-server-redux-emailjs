@@ -1,0 +1,116 @@
+{
+  "tulips": [
+    {
+      "id": 1,
+      "img": "tulip-1.jpg",
+      "title": "Tulip 1",
+      "price": 2.5,
+      "description": "Some description of Tulip 1. Some additional information. More data here"
+    },
+    {
+      "id": 2,
+      "img": "tulip-2.jpg",
+      "title": "Black Tulip",
+      "price": 2.2,
+      "description": "Some description of Tulip 2. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information"
+    },
+    {
+      "id": 3,
+      "img": "tulip-3.jpg",
+      "title": "Red Tulip",
+      "price": 1.8,
+      "description": "Short description of Tulip 3. Some information"
+    },
+    {
+      "id": 4,
+      "img": "tulip-4.jpg",
+      "title": "Light pink Tulip",
+      "price": 1.9,
+      "description": "Description of Tulip 4. More and more Description. More and more Description. More and more Description. More and more Description."
+    },
+    {
+      "id": 5,
+      "img": "tulip-5.jpg",
+      "title": "White Tulip",
+      "price": 1.6,
+      "description": "Description of White Tulip. More and more Information. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data. Additional data."
+    },
+    {
+      "id": 6,
+      "img": "tulip-6.jpg",
+      "title": "Beautiful Tulip",
+      "price": 2.4,
+      "description": "Description of Beautiful Tulip. Not large description. Not large description. Not large description."
+    },
+    {
+      "id": 7,
+      "img": "tulip-7.jpg",
+      "title": "Yellow Tulip",
+      "price": 2.7,
+      "description": "Description of Yellow Tulip. Not large description. Not large description. Not large description."
+    },
+    {
+      "id": 8,
+      "img": "tulip-8.jpg",
+      "title": "Yellow-Orange Tulip",
+      "price": 2.1,
+      "description": "Description of Yellow-Orange Tulip. Some additional description. Some additional description. Some additional description. Some additional description."
+    },
+    {
+      "id": 9,
+      "img": "tulip-9.jpg",
+      "title": "Dark-purple Tulip",
+      "price": 2.0,
+      "description": "Description of Dark-purple Tulip. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information. More and more information."
+    },
+    {
+      "id": 10,
+      "img": "tulip-10.jpg",
+      "title": "Dark-pink Tulip",
+      "price": 2.3,
+      "description": "Description of Dark-pink Tulip. Short information here."
+    },
+    {
+      "id": 11,
+      "img": "tulip-11.jpg",
+      "title": "Yellow-red Tulip",
+      "price": 2.6,
+      "description": "Description of Yellow-red Tulip. More additional information. More additional information. More additional information. More additional information."
+    },
+    {
+      "id": 12,
+      "img": "tulip-12.jpg",
+      "title": "White-red Tulip",
+      "price": 2.1,
+      "description": "Description of White-red Tulip. More and more description here. More additional information. More and more description here. More additional information. More and more description here. More additional information."
+    },
+    {
+      "id": 13,
+      "img": "tulip-13.jpg",
+      "title": "Light-yellow Tulip",
+      "price": 2.4,
+      "description": "Description of Light-yellow Tulip. Another usefull information. Short Description"
+    },
+    {
+      "id": 14,
+      "img": "tulip-14.jpg",
+      "title": "Light-purple Tulip",
+      "price": 2.8,
+      "description": "Description of Light-purple Tulip. Short usefull information. Short Description. Short usefull information. Short Description. Short usefull information. Short Description. Short usefull information. Short Description. Short usefull information. Short Description"
+    },
+    {
+      "id": 15,
+      "img": "tulip-15.jpg",
+      "title": "Large red Tulip",
+      "price": 3.0,
+      "description": "Description of Large red Tulip. Some additional information. Some additional information. Some additional information."
+    },
+    {
+      "id": 16,
+      "img": "tulip-16.jpg",
+      "title": "White with Red veins Tulip",
+      "price": 3.1,
+      "description": "Description of White Tulips. More and more information, more and more data. More and more information, more and more data. More and more information, more and more data. More and more information, more and more data."
+    }
+  ]
+}
